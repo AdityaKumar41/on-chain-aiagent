@@ -1,0 +1,7 @@
+web3
+crewai
+python-dotenv
+requests
+typing
+pydantic
+fastapi
